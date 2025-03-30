@@ -1,2 +1,2 @@
-# C_simple_codes
+# C simple codes
 C simple code for start
